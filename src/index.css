@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family:  'SF Pro Rounded', -apple-system, 'SF Pro Text',
+  'SF UI Text', system-ui, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+main {
+  background-image: linear-gradient(rgb(248, 51, 51), black);
+  display: flex;
+  height: 100vh;
+}

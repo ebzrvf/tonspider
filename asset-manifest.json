@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tonspider/static/css/main.6bb35e4f.css",
-    "main.js": "/tonspider/static/js/main.09eb3413.js",
+    "main.css": "/tonspider/static/css/main.e2d0a008.css",
+    "main.js": "/tonspider/static/js/main.ca37fadf.js",
     "static/media/tonspider.png": "/tonspider/static/media/tonspider.887cc1cacdf6a0aa0f84.png",
     "index.html": "/tonspider/index.html",
-    "main.6bb35e4f.css.map": "/tonspider/static/css/main.6bb35e4f.css.map",
-    "main.09eb3413.js.map": "/tonspider/static/js/main.09eb3413.js.map"
+    "main.e2d0a008.css.map": "/tonspider/static/css/main.e2d0a008.css.map",
+    "main.ca37fadf.js.map": "/tonspider/static/js/main.ca37fadf.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bb35e4f.css",
-    "static/js/main.09eb3413.js"
+    "static/css/main.e2d0a008.css",
+    "static/js/main.ca37fadf.js"
   ]
 }
